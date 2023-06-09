@@ -1,0 +1,16 @@
+com.example.e_banking_app-jetified-window-java-1.0.0-beta04-0 C:\Users\pc\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.e_banking_app-jetified-play-services-auth-20.4.0-1 C:\Users\pc\.gradle\caches\transforms-3\160c3551852d8b30412cdff12532e821\transformed\jetified-play-services-auth-20.4.0\res
+com.example.e_banking_app-jetified-play-services-base-18.0.1-2 C:\Users\pc\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\res
+com.example.e_banking_app-jetified-annotation-experimental-1.1.0-3 C:\Users\pc\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.e_banking_app-jetified-play-services-basement-18.1.0-4 C:\Users\pc\.gradle\caches\transforms-3\9419681db41a7ffe6ce00dd0ae467888\transformed\jetified-play-services-basement-18.1.0\res
+com.example.e_banking_app-jetified-window-1.0.0-beta04-5 C:\Users\pc\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+com.example.e_banking_app-core-1.6.0-6 C:\Users\pc\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+com.example.e_banking_app-debug-7 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\android\app\src\debug\res
+com.example.e_banking_app-main-8 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\android\app\src\main\res
+com.example.e_banking_app-pngs-9 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\app\generated\res\pngs\debug
+com.example.e_banking_app-resValues-10 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\app\generated\res\resValues\debug
+com.example.e_banking_app-rs-11 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\app\generated\res\rs\debug
+com.example.e_banking_app-mergeDebugResources-12 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.e_banking_app-mergeDebugResources-13 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.e_banking_app-merged_res-14 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\app\intermediates\merged_res\debug
+com.example.e_banking_app-packaged_res-15 C:\Users\pc\Downloads\e_banking_app\e_banking_app\e_banking_app\build\smart_auth\intermediates\packaged_res\debug

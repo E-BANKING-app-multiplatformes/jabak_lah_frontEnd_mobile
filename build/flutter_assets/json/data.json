@@ -1,0 +1,35 @@
+[{
+    "operator":"Maroc Telecom",
+    "date":"12-01-08",
+    "status":false,
+    "more":"Pay before",
+    "due":"1199.00",
+    "image":"assets/maroc.jpg"
+    
+
+
+},
+{
+    "operator":"Inwi",
+    "date":"12-01-23",
+    "status":false,
+    "more":"You must pay now",
+    "due":"1000.00",
+    "image":"assets/inwi.png"
+
+
+
+
+},{
+    "operator":"Orange",
+    "date":"12-01-08",
+    "status":false,
+    "more":"Pay before",
+    "due":"1590.00",
+    "image":"assets/orange.png"
+
+
+
+
+}
+]
